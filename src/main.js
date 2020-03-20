@@ -19,7 +19,7 @@ Ext.onReady(function () {
       {
         title: 'Left',
         region: 'west',
-        minWidth: 200
+        minWidth: 250
       },
       {
         xtype: 'panel',
